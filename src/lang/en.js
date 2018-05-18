@@ -4,6 +4,8 @@ export default {
     introduction: 'Introduction',
     documentation: 'Documentation',
     permission: 'Permission',
+    pagePermission: 'Page Permission',
+    directivePermission: 'Directive Permission',
     icons: 'Icons',
     components: 'Components',
     componentIndex: 'Introduction',
@@ -18,6 +20,8 @@ export default {
     countTo: 'CountTo',
     componentMixin: 'Mixin',
     backToTop: 'BackToTop',
+    dragDialog: 'Drag Dialog',
+    dragKanban: 'Drag Kanban',
     charts: 'Charts',
     keyboardChart: 'Keyboard Chart',
     lineChart: 'Line Chart',
@@ -125,5 +129,10 @@ export default {
     change: 'Theme change',
     documentation: 'Theme documentation',
     tips: 'Tips: It is different from the theme-pick on the navbar is two different skinning methods, each with different application scenarios. Refer to the documentation for details.'
+  },
+  tagsView: {
+    close: 'Close',
+    closeOthers: 'Close Others',
+    closeAll: 'Close All'
   }
 }
